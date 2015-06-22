@@ -1,0 +1,10 @@
+dat1                    A sample data object
+dat1i                   Information for glmnet.funct
+dat1m                   Serialized glmnet model file
+dat1p                   A sample data object
+glmNETpkg-package       Reads in json files, create/predict glmnet,
+                        save in serialized and pmml format
+glmnet.funct            GLMnet model
+pred.funct              cv.glmnet prediction
+read.in.json            Read in function for json files
+read.in.json.for.pred   Read in function for json files for prediction

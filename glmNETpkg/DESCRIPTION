@@ -1,0 +1,10 @@
+Package: glmNETpkg
+Type: Package
+Title: Create/predict glmnet models
+Version: 1.0
+Date: 2015-04-23
+Author: Georgia Tsiliki
+Maintainer: Georgia Tsiliki <gtsiliki@central.ntua.gr>
+Depends: RCurl, pmml, glmnet, jsonlite
+Description: This package employs/predicts elastic net models, i.e. lasso, ridge and elastic net regressions. The output is saved in pmml format. 
+License: GPL-2
